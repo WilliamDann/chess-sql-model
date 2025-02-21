@@ -16,3 +16,7 @@
 This project contains some chess lingo. That is defined here:
 - PGN: A string to store info about whole games. See this link: https://en.wikipedia.org/wiki/Portable_Game_Notation
 - FEN: A string to represent a board position. See this link: https://www.chessprogramming.org/Forsyth-Edwards_Notation
+
+# Web App
+I also made a web app to accompany this project:
+https://github.com/WilliamDann/chess-worksheet
