@@ -1,4 +1,4 @@
-# SQL Midterm
+# SQL Final
 
 # Group
 - William Dann is the only group member with all roles and worked on all tasks
